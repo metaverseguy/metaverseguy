@@ -35,8 +35,8 @@
 All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
 </td></tr>
   <tr>
-    <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
-    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a></td>
+    <th rowspan="3">Supported features<br><sub>→ Full specification</sub></th>
+    <td><code>📗 Classic template</code></td>
   </tr>
   <tr>
     <td><code>👤 Users</code></td>
