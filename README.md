@@ -9,10 +9,9 @@ Managing liquidity of leading DeFi and Web3 protocols using tailor-made strategi
 
 Blast yield comes from ETH staking and RWA protocols. The yield from these decentralized protocols is passed back to Blast users automatically. The default interest rate on other L2s is 0%. On Blast, it’s 4% for ETH and 5% for stablecoins.
 
+# About Blast
+Blast is the only Ethereum L2 with native yield for ETH and stablecoins.
+...
 
-# Why a new L2
-After the merge, Ethereum provides 4% yield on ETH. On-chain T-Bill protocols provide 5% yield on stablecoins. If users do not match or beat these rates, they are losing money to a form of inflation.
-
-L2s today do not have this yield. Incorporating ETH and stablecoin yield natively requires a new L2 designed from the ground up. Blast is an EVM-compatible, optimistic rollup that raises the baseline yield for users and developers without changing the experience cryptonatives expect.
-
-This yield makes it possible to create new business models for Dapps that aren’t possible on other L2s.
+- Live: <a href="https://blast.io">Gamma Finance</a>
+- Github: <a href="https://github.com/AcePatterson/Telegram_Blast_Bot">Gamma Finance Github</a>
