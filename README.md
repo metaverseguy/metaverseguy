@@ -13,5 +13,5 @@ Blast yield comes from ETH staking and RWA protocols. The yield from these decen
 Blast is the only Ethereum L2 with native yield for ETH and stablecoins.
 ...
 
-- Live: <a href="https://blast.io">Gamma Finance</a>
-- Github: <a href="https://github.com/AcePatterson/Telegram_Blast_Bot">Gamma Finance Github</a>
+- Live: <a href="https://blast.io">Blast.io</a>
+- Github: <a href="https://github.com/AcePatterson/Telegram_Blast_Bot">Blast Token Github</a>
