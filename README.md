@@ -2,7 +2,7 @@
 
 Managing liquidity of leading DeFi and Web3 protocols using tailor-made strategies. These strategies aim to maximize capital efficiency, reduce the cost of emissions, or maintain consistent in-range liquidity with low price impact.
 
-<h3><u><strong><i>Blast Token</i></strong></u> &nbsp;(ETHEREUM)</h3>
+<h1><u><strong><i>Blast Token</i></strong></u> &nbsp;(ETHEREUM)</h1>
 <hr />
 
 <img align="right" width="300px" src="/img/Blast.png">
