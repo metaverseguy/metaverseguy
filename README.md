@@ -32,6 +32,20 @@ Mint USDH against multiple types of collateral. Repay whenever you want.
 
 This is mint website on avalanche network. I used Solidity(ERC 721) to write smart contract and Node/Express, MongoDB to make leaderboard page, and Next.js in front-end side. Mint supply is 500 NFTs.
 
+<h1><u><strong><i>Privi Protocol</i></strong></u> &nbsp;(ETHERUM | BSC | POLKADOT)</h1>
+<hr />
+
+<img align="right" width="300px" src="https://i.ibb.co/b5LT7C3/Privi-apps.png">
+
+The Worlds First Dapp Store
+
+Pix: Pix is an NFT dapp that helps NFT collectors get the most out of their NFTs. Whether it is through collateralized loans, rent/borrow or reserve to buy later functions, Pix aims to help NFT owners to maximize their NFT utility without needing to sell it. Explore and create NFTs across Ethereum and Polygon on Pix. <br />
+Trax: Trax is a music protocol that is at the edge of the Web3 music space. Trax aims to aggregate all web3 music from Ethereum and Polygon into one solution to listen to and have fans discover new artists.<br />
+Juice: Juice is an app that allows projects to sell tokens with derivative functions. By selling novel scope tokens, which limit the price fluctuations for community members, projects can give extra rewards and align incentives for long term goals.<br />
+
+- Live: <a href="https://priviprotocol.io/">Privi Protocol</a>
+- Store: <a href="https://www.privi.store/#/zoo">Privi Protocol Store</a>
+
 <img align="right" width="300px" src="https://i.ibb.co/6FY1xCn/rowship1.png">
 
 Supercharge Your Liquidity On Solana<br />
