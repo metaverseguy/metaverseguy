@@ -32,6 +32,13 @@ Mint USDH against multiple types of collateral. Repay whenever you want.
 
 This is mint website on avalanche network. I used Solidity(ERC 721) to write smart contract and Node/Express, MongoDB to make leaderboard page, and Next.js in front-end side. Mint supply is 500 NFTs.
 
+<img align="right" width="300px" src="https://i.ibb.co/6FY1xCn/rowship1.png">
+
+Supercharge Your Liquidity On Solana<br />
+Mint USDH against multiple types of collateral. Repay whenever you want.<br />
+
+- Live: <a href="https://rowship.com/">Rowship</a>
+
 <h1><u><strong><i>Privi Protocol</i></strong></u> &nbsp;(ETHERUM | BSC | POLKADOT)</h1>
 <hr />
 
@@ -46,9 +53,30 @@ Juice: Juice is an app that allows projects to sell tokens with derivative funct
 - Live: <a href="https://priviprotocol.io/">Privi Protocol</a>
 - Store: <a href="https://www.privi.store/#/zoo">Privi Protocol Store</a>
 
-<img align="right" width="300px" src="https://i.ibb.co/6FY1xCn/rowship1.png">
+<h1><u><strong><i>BASC NFT Staking</i></strong></u> &nbsp;(Solana)</h1>
+<hr />
 
-Supercharge Your Liquidity On Solana<br />
-Mint USDH against multiple types of collateral. Repay whenever you want.<br />
+A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (2) stake a Baby Tiger and (3) stake a matching pair. The details on the amount of $DAB that is earned along with any multiplier bonus are outlined below. 
 
-- Live: <a href="https://rowship.com/">Rowship</a>
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/167239937-327a2413-13c1-4828-9f40-be240d40d42e.png">
+
+- Demo: <a href="https://basc-nft-staking.vercel.app">BASC NFT Staking</a>
+- Live Link: <a href="https://stakingv2.babyapesocialclub.com">BASC NFT Staking</a>
+  - Functionality
+    - Stake / Unstake All NFTs - for each tab, Matching Pairs, Pairs, Individual
+    - Claim All Rewards - if these have to be separated by individual staked vs. pairs staked that is ok
+  - Rarity Multiplier
+    - Baby Ape
+      - Rank < 13 = 100 $DAB/day
+      - Rank < 1,000 = 15 $DAB/day
+      - Rank >= 1,000 = 10 $DAB/day
+    - Baby Tiger
+      - Rank < 13 = 20 $DAB/day
+      - Rank < 1,000 = 3 $DAB/day
+      - Rank >= 1,000 = 2 $DAB/day
+  - Pair Multiplier
+    - Matching Baby Ape + Baby Tiger
+      - 25% bonus on the sum of the rarity multiplier.
+- Magic Eden: <a href="https://www.magiceden.io/marketplace/baby_ape_social_club">Buy BASC</a>
+- Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>
+- Github Repo: <a href="https://github.com/best-lucky1030/BASC-NFT-Staking">BASC-NFT-Staking</a>
