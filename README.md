@@ -1,4 +1,4 @@
-# Projects participated during development<br /> ( EVM | SOL | BSC | COSMOS | NEAR )
+# Projects participated during development<br /> ( EVM | SOL | BSC | COSMOS )
 
 Managing liquidity of leading DeFi and Web3 protocols using tailor-made strategies. These strategies aim to maximize capital efficiency, reduce the cost of emissions, or maintain consistent in-range liquidity with low price impact.
 
