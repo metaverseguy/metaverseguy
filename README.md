@@ -77,6 +77,6 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
   - Pair Multiplier
     - Matching Baby Ape + Baby Tiger
       - 25% bonus on the sum of the rarity multiplier.
-/*- Magic Eden: <a href="https://www.magiceden.io/marketplace/baby_ape_social_club">Buy BASC</a>*/
-/*- Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>*/
+<!-- - Magic Eden: <a href="https://www.magiceden.io/marketplace/baby_ape_social_club">Buy BASC</a>
+- Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a> -->
 - Github Repo: <a href="https://github.com/best-lucky1030/BASC-NFT-Staking">BASC-NFT-Staking</a>
