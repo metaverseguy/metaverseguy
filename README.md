@@ -14,7 +14,7 @@ Blast is the only Ethereum L2 with native yield for ETH and stablecoins.
 ...
 
 - Live: <a href="https://blast.io">Blast.io</a>
-- Github: <a href="https://github.com/AcePatterson/Telegram_Blast_Bot">Blast Token Github</a>
+- Github: <a href="https://github.com/AcePatterson/Telegram_Blast_Bot.git">Blast Token Github</a>
 
 <h1><u><strong><i>Hubble Protocol</i></strong></u> &nbsp;(SOLANA)</h1>
 <hr />
